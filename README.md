@@ -16,7 +16,7 @@
 
 | ENCFF000AWX (trimmed) | ENCFF000AWY (trimmed) | ENCFF036EGF |
 | ----------------- | ----------------- | ----------------- |
-|  |  |  |
+| ![AWX_tr_total](https://user-images.githubusercontent.com/79662580/157737593-2efdf0b0-dbc0-4e93-82d0-7c62dcf4f849.png)| ![AWY_tr_total](https://user-images.githubusercontent.com/79662580/157737613-68001295-f330-48ba-bf38-a42d1e3f982c.png)| ![C_total](https://user-images.githubusercontent.com/79662580/157737623-810630b9-eafb-436f-9e26-6f07e375c005.png)|
 
 Таблица 2
 
