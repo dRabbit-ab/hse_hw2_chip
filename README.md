@@ -2,6 +2,8 @@
 
 ## Ссылка на колаб
 
+https://colab.research.google.com/drive/1pfU_bJXyCzGpTYvNJmfDrZvGVCjQbBNK?usp=sharing
+
 ## Часть 1
 
 ### Анализ FastQC
