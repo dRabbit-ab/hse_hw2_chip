@@ -70,7 +70,13 @@
 
 ### Диаграммы Венна
 
-Таблица 7
+| ENCFF000AWX.1 | ENCFF000AWX.2 |
+| ----------------- | ----------------- |
+| ![AWX_venn_1](https://user-images.githubusercontent.com/79662580/157740172-23e49d35-882c-4f6d-9fa6-7d279df7c3e4.png) | ![AWX_venn_2](https://user-images.githubusercontent.com/79662580/157740181-d12cdaf7-c7b4-41bc-a8a8-7477b7e6dd3c.png) |
+
+| ENCFF000AWY.1 | ENCFF000AWY.2 |
+| ----------------- | ----------------- |
+| ![AWY_venn1](https://user-images.githubusercontent.com/79662580/157740192-80fbfd9c-518f-49a2-b1a6-fb838100a205.png) | ![AWY_venn2](https://user-images.githubusercontent.com/79662580/157740207-4f654463-cc1e-4089-a3b8-7cf5fc522cd2.png) |
 
 ## Часть 2
 
