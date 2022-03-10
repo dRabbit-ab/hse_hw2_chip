@@ -48,8 +48,6 @@
 | ----------------- | ----------------- | ----------------- |
 | ![AWX_tr_per_bs](https://user-images.githubusercontent.com/79662580/157738955-e772ba61-b85c-4eb9-bbf4-43f8f19f7437.png) | ![AWY_tr_per_bs](https://user-images.githubusercontent.com/79662580/157738969-6fb406e7-0082-4193-8046-72a1d936a9aa.png) | ![C_per_bs](https://user-images.githubusercontent.com/79662580/157738977-1c254ade-3dcf-4f7f-9dc0-47304348e11a.png) |
 
-Таблица 7
-
 | ENCFF000AWX | ENCFF000AWY | ENCFF036EGF |
 | ----------------- | ----------------- | ----------------- |
 | ![AWX_gc](https://user-images.githubusercontent.com/79662580/157739399-1984a2be-9f3c-4012-b686-03cce1bca34b.png) | ![AWY_gc](https://user-images.githubusercontent.com/79662580/157739417-8da5e19e-145b-433d-a2a9-51e77e82fc5f.png) | ![C_gc](https://user-images.githubusercontent.com/79662580/157739431-d524482a-8da7-4144-b29b-2d82c7e36051.png) |
