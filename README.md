@@ -78,7 +78,7 @@
 | ----------------- | ----------------- |
 | ![AWY_venn1](https://user-images.githubusercontent.com/79662580/157740192-80fbfd9c-518f-49a2-b1a6-fb838100a205.png) | ![AWY_venn2](https://user-images.githubusercontent.com/79662580/157740207-4f654463-cc1e-4089-a3b8-7cf5fc522cd2.png) |
 
-## Часть 2
+## Часть 2 : Бонсуное задание
 
 ### Хитмапы
 
