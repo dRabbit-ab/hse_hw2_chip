@@ -32,8 +32,6 @@
 | ----------------- | ----------------- | ----------------- |
 | ![AWX_tr_per_tile](https://user-images.githubusercontent.com/79662580/157738364-d6b494b0-56e1-475b-b980-cb3c409ddd3c.png) | ![AWY_tr_per_tile](https://user-images.githubusercontent.com/79662580/157738378-b6cbcd39-5b3f-491f-b647-29e6f61add3a.png) | ![C_per_tile](https://user-images.githubusercontent.com/79662580/157738385-332c48cc-d4c1-4f5f-9223-3fbc1bbfa88b.png) |
 
-Таблица 4
-
 | ENCFF000AWX | ENCFF000AWY | ENCFF036EGF |
 | ----------------- | ----------------- | ----------------- |
 | ![AWX_per_s](https://user-images.githubusercontent.com/79662580/157738580-4b4fa5b8-40f4-40af-a983-0ce429dac3c5.png) | ![AWY_per_s](https://user-images.githubusercontent.com/79662580/157738598-c8110bed-a8b6-4586-a330-c65a57e311f7.png) | ![C_per_s](https://user-images.githubusercontent.com/79662580/157738605-66b6f335-3c75-42c0-80c5-2046c169a5ff.png) |
@@ -46,11 +44,11 @@
 
 | ENCFF000AWX | ENCFF000AWY | ENCFF036EGF |
 | ----------------- | ----------------- | ----------------- |
-|  |  |  |
+| ![AWX_per_bs](https://user-images.githubusercontent.com/79662580/157738910-63e1cb71-6965-4082-a7d1-a18054eab32e.png) | ![AWY_per_bs](https://user-images.githubusercontent.com/79662580/157738924-48a0a38a-2168-4af4-b974-829fa3443b91.png) | ![C_per_bs](https://user-images.githubusercontent.com/79662580/157738939-f1bc3587-c9e6-4fb0-a5cc-2fdfc3b3b90b.png) |
 
 | ENCFF000AWX (trimmed) | ENCFF000AWY (trimmed) | ENCFF036EGF |
 | ----------------- | ----------------- | ----------------- |
-|  |  |  |
+| ![AWX_tr_per_bs](https://user-images.githubusercontent.com/79662580/157738955-e772ba61-b85c-4eb9-bbf4-43f8f19f7437.png) | ![AWY_tr_per_bs](https://user-images.githubusercontent.com/79662580/157738969-6fb406e7-0082-4193-8046-72a1d936a9aa.png) | ![C_per_bs](https://user-images.githubusercontent.com/79662580/157738977-1c254ade-3dcf-4f7f-9dc0-47304348e11a.png) |
 
 ### Статистика по выравниванию
 
