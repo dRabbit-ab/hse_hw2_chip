@@ -82,4 +82,8 @@
 
 ### Хитмапы
 
-### Выводы
+| ENCFF270IOE.bam -> ENCFF613OKL.bigWig | ENCFF171RVK.bam -> ENCFF894VJK.bigWig |
+| ----------------- | ----------------- |
+| ![result1](https://user-images.githubusercontent.com/79662580/157740450-fb0d6d5a-7b84-47f4-804a-a86585617184.png) | ![result2](https://user-images.githubusercontent.com/79662580/157740460-ffa17715-2e52-4d71-9ef1-beb5088e6376.png) |
+
+Выводы
