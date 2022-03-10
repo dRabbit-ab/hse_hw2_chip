@@ -12,10 +12,7 @@
 
 | ENCFF000AWX | ENCFF000AWY | ENCFF036EGF |
 | ----------------- | ----------------- | ----------------- |
-| ![AWX_total](https://user-images.githubusercontent.com/79662580/157737331-599621b0-bd39-4876-9717-458927cc6b0a.png)
- | ![AWY_total](https://user-images.githubusercontent.com/79662580/157737347-199ce493-0430-428d-8e5f-39f3ba78d55a.png)
- | ![C_total](https://user-images.githubusercontent.com/79662580/157737356-4e893175-af5e-4b70-8165-63140ad25bfa.png)
- |
+| ![AWX_total](https://user-images.githubusercontent.com/79662580/157737331-599621b0-bd39-4876-9717-458927cc6b0a.png)| ![AWY_total](https://user-images.githubusercontent.com/79662580/157737347-199ce493-0430-428d-8e5f-39f3ba78d55a.png) | ![C_total](https://user-images.githubusercontent.com/79662580/157737356-4e893175-af5e-4b70-8165-63140ad25bfa.png) |
 
 | ENCFF000AWX (trimmed) | ENCFF000AWY (trimmed) | ENCFF036EGF |
 | ----------------- | ----------------- | ----------------- |
